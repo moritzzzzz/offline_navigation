@@ -1,0 +1,2 @@
+rootProject.name='Lunchbox_Offline_router'
+include ':app'
