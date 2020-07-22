@@ -11,3 +11,5 @@ First off, make sure to have a Mapbox account. There are 2 files that are missin
  - Project level build.gradle: Please follow these instructions to add the secret token: https://docs.mapbox.com/android/maps/overview/#add-the-dependency
  - MainActivity.kt: Please set the value of 'MAPBOX_ACCESS_TOKEN' to a valid token.
 
+Once these have been edited the project can be compiled.
+
