@@ -1,4 +1,6 @@
-# Offline Navigation
+# Offline Routing
+
+<img src="https://github.com/moritzzzzz/offline_navigation/blob/master/lunchbox6.gif" width="200">
 
 This is a basic offline routing Android application written in Kotlin. It utilizes the [Mapbox Maps SDK for Android](https://docs.mapbox.com/android/maps/overview/) as well as the [Mapbox Navigation SDK for Android](https://docs.mapbox.com/android/navigation/overview/).
 
@@ -12,4 +14,6 @@ First off, make sure to have a Mapbox account. There are 2 files that are missin
  - MainActivity.kt: Please set the value of 'MAPBOX_ACCESS_TOKEN' to a valid token.
 
 Once these have been edited the project can be compiled.
+
+
 
