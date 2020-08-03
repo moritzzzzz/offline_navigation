@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback, PermissionsListene
 
 
     private val MAPBOX_ACCESS_TOKEN = "ACCESS_TOKEN"
-    private val mapbox_styleURL = "mapbox://styles/moritzz/ck57yl4f301r41cp2cehokywb"
+    private val mapbox_styleURL = "STYLE_URL"
 
     private lateinit var mapboxMap: MapboxMap
 
